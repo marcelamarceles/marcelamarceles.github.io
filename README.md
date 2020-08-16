@@ -1,11 +1,16 @@
-## - Esto es un espacio virtual, como cualquier otro /// This is a virtual space, as any other
-### - aunque diferente. Por tanto, especial /// even though different. It is quite special
-- y en constante construcción. /// and in a for ever construction.
-- Pretendamos pues, que tiene potencial /// Let's pretend this has potential
-- y que funciona como ventana, /// and works as a window,
-- como cualquier otro puente entre _dimensiones,_ /// as any other bridge between _dimensions,_
-- entre significante y significado. /// facing thogether the signified and the signifier. 
+##  E
 
+
+
+                         E                       | E
+------------------------------------------------ | -------------
+Esto es un espacio virtual, como cualquier otro  | This is a virtual space, as any other
+ aunque diferente. Por tanto, especial           | even though different. It is quite special
+ y en constante construcción.                    | and in a for ever construction.
+ Pretendamos pues, que tiene potencial           | Let's pretend this has potential
+ y que funciona como ventana,                    | and works as a window,
+ como cualquier otro puente entre _dimensiones,_ | as any other bridge between _dimensions,_
+ entre significante y significado.               | facing thogether the signified and the signifier. 
 
 
 You can use the [editor on GitHub](https://github.com/marcelamarceles/marcelamarceles.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
