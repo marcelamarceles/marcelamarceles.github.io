@@ -2,9 +2,9 @@
 
 
 
-                         E                       | E
------------------------------------------------- | -------------
-Esto es un espacio virtual, como cualquier otro  | This is a virtual space, as any other
+                         E                       |                      E
+------------------------------------------------ | --------------------------------------------------
+ Esto es un espacio virtual, como cualquier otro | This is a virtual space, as any other
  aunque diferente. Por tanto, especial           | even though different. It is quite special
  y en constante construcción.                    | and in a for ever construction.
  Pretendamos pues, que tiene potencial           | Let's pretend this has potential
