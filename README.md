@@ -17,7 +17,7 @@
 [El gran espacio / A big one] (https://uldymarcela.wordpress.com/)
 
 ```
-[El gran espacio / A big one] (https://uldymarcela.wordpress.com/)
+Todo el contenido [GitHub Flavored Markdown] (https://uldymarcela.wordpress.com/)
 
 
 You can use the [editor on GitHub](https://github.com/marcelamarceles/marcelamarceles.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
