@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Esto es un espacio virtual, como cualquier otro /// This is a virtual space, as any other
+### aunque diferente. Por tanto, especial /// even though different. It is quite special
+y en constante construcción. /// and in a constant construction.
+Pretendamos pues, que tiene potencial /// Let's pretend this has potential
+y que funciona como ventana, /// and works as a window,
+como cualquier otro puente entre dimensiones, /// as any other bridge between dimensions, 
+entre significante y significado. /// facing thogether the signified and the signifier. 
 
-is this my line
 
 
 You can use the [editor on GitHub](https://github.com/marcelamarceles/marcelamarceles.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
