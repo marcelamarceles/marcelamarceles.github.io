@@ -14,7 +14,7 @@
 ```markdown
 
 
-[El gran espacio / A big one] (https://uldymarcela.wordpress.com/)
+
 
 ```
 Todo el contenido [Other space](https://uldymarcela.wordpress.com/)
